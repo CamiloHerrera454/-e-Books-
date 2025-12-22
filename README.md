@@ -59,9 +59,4 @@ Desarrollar un sistema funcional que aplique conceptos de **Programación Orient
 - **Entorno de desarrollo:** Visual Studio Code
 - **Sistema de control de versiones:** Git / GitHub
 
-## Tecnologías usadas
-- Backend: [Ej: Node.js + Express / Python Flask / Java Spring]
-- Base de datos: [Ej: SQLite / PostgreSQL / MongoDB]
-- Documentación: [Ej: Swagger / Postman]
-- Control de versiones: Git + GitHub
 
